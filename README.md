@@ -1,9 +1,9 @@
 ## _Hi there, I’m Priya_ :wave:
 
 # I'm a Full Stack Developer, who love to code!
--  📚 I’m currently learning React and Nodejs
+-  📚 I’m currently working on AI Projects.
 -  ✨ I’m looking to collaborate with other passionate developers.
--  ✔✔ 2021 Goals: Master React, Complete MERN Stack. 
+-  ✔✔ 2026 Goals: Master AI in deep just not limited to chatbots. 
 ---
 ## Languages and Tools:
 <p align='left'>
