@@ -3,7 +3,7 @@
 # I'm a Full Stack Developer, who love to code!
 -  📚 I’m currently working on AI Projects.
 -  ✨ I’m looking to collaborate with other passionate developers.
--  ✔✔ 2026 Goals: Master AI in deep just not limited to chatbots. 
+-  ✔✔ 2027 Goals: Master AI in deep just not limited to chatbots. 
 ---
 ## Languages and Tools:
 <p align='left'>
